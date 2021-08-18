@@ -1,2 +1,1 @@
-# Lecturas IIC3633
-Repositorio para las lecturas semanales del curso Sistemas Recomendadores.
+# Lecturas IIC3633 - Sistemas Recomendadores
