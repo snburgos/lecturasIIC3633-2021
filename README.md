@@ -1,1 +1,1 @@
-# Lecturas IIC3633 - Sistemas Recomendadores
+# Lecturas y Prácticos IIC3633 - Sistemas Recomendadores
